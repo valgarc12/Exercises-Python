@@ -1,5 +1,6 @@
 """
-Given a number n, write a formula that returns n!."""
+Given a number n, write a formula that returns n!.
+Assume is n is a non-negative integer."""
 
 def factorial(n):
     result = 1
